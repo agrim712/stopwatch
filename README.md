@@ -1,4 +1,4 @@
-# HTML/CSS/JS Stopwatch Project
+# Stopwatch Project
 
 This project is a simple web-based stopwatch application built using HTML, CSS, and JavaScript. It provides essential stopwatch functionalities, including start, stop, and reset actions, in a clean and intuitive interface.
 
